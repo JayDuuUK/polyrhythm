@@ -19,7 +19,8 @@
     "isbot": "5.1.26",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "react-router": "7.5.2"
+    "react-router": "7.5.2",
+    "tone": "^14.7.77"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "1.0.8",
